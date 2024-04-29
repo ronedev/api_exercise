@@ -1,0 +1,32 @@
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T02:26:52.793Z"}
+{"level":"info","message":"GET /usuarios","timestamp":"2024-04-29T02:26:58.449Z"}
+{"level":"info","message":"GET /usuarios","timestamp":"2024-04-29T02:27:45.225Z"}
+{"level":"info","message":"Nuevo usuario creado con ID 4","timestamp":"2024-04-29T02:32:45.736Z"}
+{"level":"info","message":"GET /usuarios","timestamp":"2024-04-29T02:32:50.680Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T02:33:45.540Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T02:34:00.382Z"}
+{"level":"info","message":"GET /usuarios/3","timestamp":"2024-04-29T02:34:05.068Z"}
+{"level":"error","message":"No se encontró el usuario con ID 4","timestamp":"2024-04-29T02:34:08.670Z"}
+{"level":"info","message":"GET /usuarios/2","timestamp":"2024-04-29T02:34:13.137Z"}
+{"level":"info","message":"GET /usuarios/1","timestamp":"2024-04-29T02:34:16.263Z"}
+{"level":"info","message":"GET /usuarios","timestamp":"2024-04-29T02:34:20.486Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T02:35:44.436Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T02:35:50.828Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T02:36:34.244Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T02:37:13.579Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T02:37:32.375Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T02:57:13.524Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T02:57:25.884Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T03:42:07.801Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T03:42:14.068Z"}
+{"level":"info","message":"GET /usuarios","timestamp":"2024-04-29T03:42:58.962Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T03:47:32.777Z"}
+{"level":"info","message":"GET /usuarios","timestamp":"2024-04-29T03:47:39.332Z"}
+{"level":"info","message":"GET /usuarios","timestamp":"2024-04-29T03:48:35.791Z"}
+{"level":"info","message":"GET /usuarios","timestamp":"2024-04-29T03:48:52.502Z"}
+{"level":"info","message":"GET /usuarios","timestamp":"2024-04-29T03:48:53.588Z"}
+{"level":"info","message":"GET /usuarios","timestamp":"2024-04-29T03:48:54.622Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T03:50:55.368Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T03:52:37.737Z"}
+{"level":"info","message":"GET /usuarios","timestamp":"2024-04-29T03:53:05.323Z"}
+{"level":"info","message":"Servidor Express en ejecución en el puerto 3000","timestamp":"2024-04-29T04:01:11.649Z"}
